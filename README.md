@@ -4,7 +4,7 @@ A repository for me to just store relevant files for my command line configurati
 ## Customizing your terminal
 Read create-custom-terminal.sh
 Use chmod to make this an executable and you can run this as a bash shell script.
-`chmod u+x create-custom-terminal.sh.sh`
+`chmod u+x create-custom-terminal.sh`
 
 ## How Translation of Programs Work
 A lot of my analysis is just paraphrasing the work of Computer Organization and Design by David Patterson and John Hennessy RISC-V Edition 2018. This was the textbook I used in EECS 112 Organization of Computers at UC Irvine. I took this class in 2021 or 2020 (exact term to be added later).

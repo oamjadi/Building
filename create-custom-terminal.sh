@@ -6,7 +6,7 @@
 #The original youtube video can be found here: https://www.youtube.com/watch?v=48fmUGCIjc0
 #I made some modification to comment out the brew install part, and I downloaded iterm from the website so also commenting out that part.
 #After doing this open iterm2, go to preferences, click on Profiles>Text, search the font SourceCodePro and in Colors import the deep blue color configuration and then select it and restart the terminal. 
-In the future as I continue to customize my terminal I will add to this. Next I want to do more keymapping for my vim to be able to code faster.
+#In the future as I continue to customize my terminal I will add to this. Next I want to do more keymapping for my vim to be able to code faster.
 
 #/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 #brew cask install iterm2
